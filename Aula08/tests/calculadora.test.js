@@ -1,4 +1,4 @@
-﻿const { somar, subtrair, verificarIdade } = require('../src/calculadora');
+const { somar, subtrair, verificarIdade } = require('../src/calculadora');
 
 describe('Testes da Calculadora', () => {
     test('Deve somar 2 + 3 e retornar 5', () => {
