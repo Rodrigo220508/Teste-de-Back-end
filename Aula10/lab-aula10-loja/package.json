@@ -1,0 +1,14 @@
+{
+  "name": "lab-aula10-loja",
+  "version": "1.0.0",
+  "description": "Aula 10 - Analise de Cobertura e Performance",
+  "main": "src/produtos.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "medir": "node scripts/medir-busca.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
