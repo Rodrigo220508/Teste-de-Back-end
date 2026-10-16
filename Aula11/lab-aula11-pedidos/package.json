@@ -1,0 +1,16 @@
+
+{
+  "name": "lab-aula11-pedidos",
+  "version": "1.0.0",
+  "description": "Aula 11 - Tratamento de Exceções e Resiliência",
+  "main": "src/pedidoService.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "simular": "node scripts/simular.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
